@@ -1,0 +1,142 @@
+# AXIEL URENDA MIRANDA
+## Process Engineer
+###Contacto
+GitHub: https://github.com/SuperAx73
+Linkedin: www.linkedin.com/in/axiel-urendaa905b1349
+Mail: axielurendamiranda@gmail.com
+Cel: 614-220-8418
+## Experiencia laboral
+### Intern del equipo de Industrial Engineering
+Jabil, Chihuahua, Mexico
+Marzo 2025 - actualidad
+- Creacion de una app web para la captura y exportancion de tiempos y representacion de datos para elabpracion de mejoras en una linea de produccion 
+- Analisis para mejora de eficiencia de lineas de produccion
+- Ahorro de recurso humano en procesos de ensamble manual
+- Automatizacion de procesos de inspeccion, transporte, empaque y medicion de timepos
+- Deteccion, analisis y resolucion de problemas de rendimiento en una linea de produccion
+- Toma de timepos
+- Analisis de microparos
+- Delimitacion de espacios con un layout establecido
+- Elaboracion de documentacion: playbooks, balanceo de lineas, planes de control y analisis de modo y efecto de las fallas (PFMA)
+
+## Intern del Equipo de GRC (Governance, Risk Management & Compliance)
+En AutoZone Business & Technology Store
+Support Center, Abril 2024 - Agosto 2024
+- Creacion de flujos de trabajo para gestion de aprobaciones de proveedores en ONE TRUST
+- Migración de una plataforma de gestión de privacidad(Web Center) a One Trust.
+- Encargado de la aprobación de seguridad de proveedores en el area de IT
+- Optimización de procesos de capturas de datos, comunicacion via mail y aprobaciones en el area de IT
+
+## Auxiliar de auditor líder
+En Business & quality consulting, junio 2022 - Enero 2024
+- Implenteacion de ISO 9001, ISO 27001
+- Capacitación de software de gestión de documentos
+- Aprobación del correcto entendimiento y uso de las ISO Tools
+- Primer supervisor de documentos de operación, Verificación de procedimientos, protocolos y normas.
+
+## Proyectos:
+
+### METEP - Plataforma de Análisis Industrial | React, TypeScript, Node.js, Express, Firebase, Vite, Vercel  
+May 2025 – Presente
+
+– Aplicación web full-stack para medir eficiencia de producción industrial y detectar microparos en procesos de manufactura.  
+– Construí una API REST con Node.js, Express.js y Firebase Admin SDK para gestión segura de datos y autenticación de usuarios.  
+– Implementé funcionalidad de cronómetro en tiempo real con precisión de centésimas para mediciones precisas de tiempos de producción.  
+– Desarrollé algoritmo automático de detección de microparos con análisis estadístico y generación de reportes Excel usando ExcelJS.  
+– Creé frontend React responsivo con TypeScript, TailwindCSS y Context API; desplegado en Vercel con funciones serverless.  
+– Arquitectura de capas: Presentación (React), API (Express), Lógica de Negocio (Services), Persistencia (Firebase Firestore).
+
+### Sistema de Transporte Central-CItyCaap | React, TypeScript, Firebase, Leaflet, Vite, Tailwind CSS, Vercel
+Jun 2025 – Presente
+
+– Sistema full-stack de gestión de transporte para seguimiento de conductores y administración de clientes con mapas en tiempo real.
+– Desarrollé un frontend React con TypeScript usando componentes funcionales y hooks personalizados, implementando rutas protegidas con React Router y gestión de estado global a través de Context API.
+– Integré Firebase Firestore para persistencia de datos y Firebase Authentication para gestión segura de usuarios, con Axios para comunicación de APIs.
+– Implementé seguimiento de conductores en tiempo real usando mapas Leaflet y React Leaflet, mostrando datos de ubicación en vivo y gestión de viajes.
+– Creé interfaz responsive con Tailwind CSS e iconos Lucide React, desplegando el frontend en Vercel con sistema de construcción Vite y ESLint para calidad de código.
+– Arquitectura basada en componentes con patrón Container/Presentational, Service Layer para lógica de negocio, y arquitectura de capas separando frontend, servicios y base de datos Firebase.
+
+**Plataforma de Portfolio Pektorya | React, TypeScript, Firebase, Express.js, Vimeo API, Box API, Tailwind CSS, Vite, Vercel**  
+*Jun. 2024 – Presente*
+
+– Plataforma full-stack de portfolio para agencia creativa con showcase de clientes, galerías de video y sistema de gestión de contenido administrativo.  
+– Arquitectura cliente-servidor con frontend SPA (Single Page Application) en React y backend API REST con Express.js, implementando separación de responsabilidades.  
+– Construí un frontend en React con TypeScript, implementando diseño responsivo usando Tailwind CSS y tipografía personalizada Eurostile con animaciones de Framer Motion.  
+– Desarrollé sistema de autenticación seguro usando Firebase Auth con control de acceso basado en roles para panel administrativo y rutas protegidas.  
+– Integré Vimeo API para gestión de videos y Box API para almacenamiento de archivos en la nube, permitiendo manejo y streaming fluido de assets multimedia.  
+– Creé dashboard administrativo completo para gestión de contenido incluyendo subida de assets, seguimiento de leads y curaduría de portfolio.  
+– Implementé API del lado del servidor con Express.js para búsqueda de videos, descargas de archivos y notificaciones por email usando Nodemailer.  
+– Desplegué frontend en Vercel con proceso de build optimizado usando Vite bundler y configuré servicios backend para escalabilidad en producción.
+
+## Habilidades técnicas:
+### Lenguajes
+- Python
+- Javascript
+- Typescript
+- C++
+- C#
+- SQL
+- HTML/CSS
+### Herramientas de desarrollador
+- Control de versiones en Git
+- VS code
+- vite
+- vercel
+- firebase
+- Tailwind CSS
+- datagrip
+- mySQL
+- Xcode
+- Expo Go
+- Unix terminal
+- Powershell
+### Framworks y Librerias
+- React
+- Node.Js
+- Express.Js
+- Flask 
+- Leaflet
+- Context API (gestión de estado nativa de React)
+- React Router (ruteo en aplicaciones React)
+- React Leaflet (integración de Leaflet con React)
+- Lucide React (íconos SVG en React)
+- ExcelJS (para generación y manipulación de archivos Excel)
+- Framer Motion (animaciones en React)
+- Axios (cliente HTTP para comunicación con APIs)
+- Nodemailer (envío de correos desde el backend)
+- ESLint (análisis estático de código para mantener calidad)
+
+### APIs
+- Vimeo API
+- Box API
+
+## Habilidades blandas:
+- Liderazgo
+- Trabajo en equipo
+- Organización de personal
+- Soluciona de problemas
+- Disciplina
+- Ser Autodidacta
+- Responsabilidad
+
+## Formación académica
+###Universidad Autónoma de Chihuahua
+- Cursando actualmente 9 semestre de Ingeniería en tecnología de procesos
+###University of British Columbia
+- Un semestre en de intercambio en un
+programa de Engineering with English as a
+second language en UBC (University of British
+Columbia) en Vancouver, Canadá
+
+## Otras Certificaciones
+- Curso de Yellow Belt
+- Preparación para certificación de auditor interno
+- The Complete Full-Stack Web Development Bootcamp
+- 100 Days of Code: The Complete Python Pro Bootcamp
+- C++ Programming from beginner to Beyond
+- One Trust Certification: Third-Party Risk Management
+- Expert One Trust Certification: Tech Risk and Compliance
+- Curso de C++ Básico (platzi)
+
+## Idiomas
+• Idioma Inglés Avanzado Nivel Oral: Bilingüe
